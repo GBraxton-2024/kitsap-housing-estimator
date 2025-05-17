@@ -16,7 +16,7 @@ This project uses a linear regression model to predict home prices in Kitsap Cou
 ### Installation:
 1. Clone the repository:git clone https://github.com/GBraxton-2024/kitsap-housing-estimator.git
 2. Install dependencies:pip install -r requirements.txt
-3. 3. Run the model:
+3. Run the model:
 
 
 ## Learning Notes
